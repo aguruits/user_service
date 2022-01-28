@@ -1,0 +1,5 @@
+http://localhost:8081/users/userList
+http://localhost:8081/users/1
+
+http://localhost:8082/orders/orderList
+http://localhost:8082/orders/getOrdersById/4
